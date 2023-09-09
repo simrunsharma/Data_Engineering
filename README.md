@@ -1,6 +1,4 @@
-# Data_Engineering
-
-## Learning Objectives
+# Data_Engineering Learning Objectices
 1. **Data Engineering Principles**:
    - Understand data types, storage, management, and processing for insights.
 
