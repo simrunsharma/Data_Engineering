@@ -1,4 +1,5 @@
-# Data_Engineering Learning Objectices
+# Data_Engineering 
+   ## Learning Objectices
 1. **Data Engineering Principles**:
    - Understand data types, storage, management, and processing for insights.
 
@@ -11,5 +12,6 @@
 4. **AI Pair Programming & DevOps**:
    - Apply AI Pair Programming, DevOps, and critical thinking in projects.
 
+# Specific Files and Assignments
 ## Assignment 1: - Pandas Descriptive Statistics Script
 Assignment 1 ffocuses on developing essential skills, including reading datasets (CSV or Excel) using Python, calculating summary statistics like mean, median, and standard deviation, and creating at least one data visualization to provide visual insights. This assignment is an opportunity to apply your knowledge and start working with real-world data, setting the foundation for future data engineering tasks.
